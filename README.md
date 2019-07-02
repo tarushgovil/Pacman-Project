@@ -2,9 +2,9 @@
 My project's name is 112 Pacman.
 
 There are 3 modes in this game. 
--Single Player 
-- Multiplayer
--Ghost Mode
+1. Single Player 
+2. Multiplayer
+3. Ghost Mode
 
 In single player, you are pacman and your goal is to collect all the coins and escape the ghosts. You have 3 lives. You can also view your high scores by clicking the high scores button on the start page.
 
