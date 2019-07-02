@@ -12,4 +12,4 @@ In multiplayer, two people can play this game. There are two different pac mans.
 
 In ghost mode, you are the ghost and your job is to attack the 3 pac mans in a given amount of time. If you fail to do so, you lose the game. 
 
-The project can be run using pyzo and uses the graphics package tkinter. There are 4 files (mainTP3.py, singleplayer.py,multiplayer.py, and ghostmode.py) and to run the game you run the file mainTP3.py. Please place all 4 files mainTP3.py, singleplayer.py, multiplayer.py, and ghost mode.py along with all the images and image_util in the same folder to run the game.
+The project can be run using the graphics package tkinter. There are 4 files (mainTP3.py, singleplayer.py,multiplayer.py, and ghostmode.py) and to run the game you run the file mainTP3.py. Please place all 4 files mainTP3.py, singleplayer.py, multiplayer.py, and ghost mode.py along with all the images and image_util in the same folder to run the game.
